@@ -23,4 +23,6 @@ RGit currently implements the following commands:
 ## Installation
 
 To install, clone the repository and ensure that `bin/rgit` in accessible on
-your `$PATH`.#
+your `$PATH`.#ND
+ cni#
+
