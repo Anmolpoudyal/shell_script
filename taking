@@ -1,0 +1,8 @@
+#bin/bash 
+### this is for taking inputs from the user
+
+echo "what is your name "
+read "name"
+echo 
+printf "your naem is" $name
+
