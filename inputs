@@ -1,0 +1,14 @@
+#bin/bash
+### welcome to shell scripts anmol###
+##im about to learn  to take inputs from the user and simply print that as a result....// 
+# here the script starts
+
+
+
+
+
+
+
+echo "what is your name.?;"
+read "name"
+echo welcome to linux world mr/mrs $name 
